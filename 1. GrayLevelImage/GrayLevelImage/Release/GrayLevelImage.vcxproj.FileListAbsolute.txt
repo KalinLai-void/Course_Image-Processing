@@ -1,0 +1,5 @@
+E:\Project\College Class\ImageProcessing (C++)_College_Junior\GrayLevelImage\GrayLevelImage\Release\GrayLevelImage.MyForm.resources
+E:\Project\College Class\ImageProcessing (C++)_College_Junior\GrayLevelImage\GrayLevelImage\Release\GrayLevelImage.vcxproj.GenerateResource.cache
+E:\Project\College Class\ImageProcessing (C++)_College_Junior\20211019\GrayLevelImage\GrayLevelImage\Release\GrayLevelImage.vcxproj.AssemblyReference.cache
+E:\Project\College Class\ImageProcessing (C++)_College_Junior\20211019\GrayLevelImage\GrayLevelImage\Release\GrayLevelImage.MyForm.resources
+E:\Project\College Class\ImageProcessing (C++)_College_Junior\20211019\GrayLevelImage\GrayLevelImage\Release\GrayLevelImage.vcxproj.GenerateResource.cache

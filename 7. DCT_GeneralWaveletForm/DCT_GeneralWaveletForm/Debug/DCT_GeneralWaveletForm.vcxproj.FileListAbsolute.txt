@@ -1,0 +1,5 @@
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Debug\DCT_GeneralWaveletForm.vcxproj.AssemblyReference.cache
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Debug\DCTGeneralWaveletForm.MainForm.resources
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Debug\DCTGeneralWaveletForm.Q1_Form.resources
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Debug\DCT_GeneralWaveletForm.vcxproj.GenerateResource.cache
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Debug\DCTGeneralWaveletForm.WaveletForm.resources

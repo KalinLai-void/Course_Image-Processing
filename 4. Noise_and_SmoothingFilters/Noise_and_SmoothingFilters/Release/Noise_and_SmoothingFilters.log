@@ -1,0 +1,8 @@
+﻿  MainForm.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Noise_and_SmoothingFilters\MainForm.h(612,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Noise_and_SmoothingFilters\MainForm.h(616,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Noise_and_SmoothingFilters\MainForm.h(662,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Noise_and_SmoothingFilters\MainForm.h(666,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Noise_and_SmoothingFilters\MainForm.h(711,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Noise_and_SmoothingFilters.vcxproj -> E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Release\Noise_and_SmoothingFilters.exe

@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+E:\Project\College Class\ImageProcessing (C++)_College_Junior\20211019\GrayLevelImage\GrayLevelImage\MyForm.h(265,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\ImageProcessing (C++)_College_Junior\20211019\GrayLevelImage\GrayLevelImage\MyForm.h(315,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GrayLevelImage.vcxproj -> E:\Project\College Class\ImageProcessing (C++)_College_Junior\20211019\GrayLevelImage\Release\GrayLevelImage.exe

@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\6. DerivativeFilter\DerivativeFilter\MyForm.h(920,14): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\6. DerivativeFilter\DerivativeFilter\MyForm.h(921,14): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\6. DerivativeFilter\DerivativeFilter\MyForm.h(922,14): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DerivativeFilter.vcxproj -> E:\Project\College Class\Image Processing (C++)_College_Junior\6. DerivativeFilter\Release\DerivativeFilter.exe

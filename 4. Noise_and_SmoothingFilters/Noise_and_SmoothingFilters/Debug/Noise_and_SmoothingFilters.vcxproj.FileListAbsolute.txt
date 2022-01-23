@@ -1,0 +1,3 @@
+E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Noise_and_SmoothingFilters\Debug\SmoothingFilters.MainForm.resources
+E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Noise_and_SmoothingFilters\Debug\Noise_and_SmoothingFilters.vcxproj.GenerateResource.cache
+E:\Project\College Class\Image Processing (C++)_College_Junior\4. Noise_and_SmoothingFilters\Noise_and_SmoothingFilters\Debug\Noise_and_SmoothingFilters.vcxproj.AssemblyReference.cache

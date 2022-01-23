@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\3. HistogramEqualization\HistogramEqualization\MyForm.h(481,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\3. HistogramEqualization\HistogramEqualization\MyForm.h(482,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Histogram.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HistogramEqualization.vcxproj -> E:\Project\College Class\Image Processing (C++)_College_Junior\3. HistogramEqualization\Debug\HistogramEqualization.exe

@@ -1,0 +1,63 @@
+﻿  Q1.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(409,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(410,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(411,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(412,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(414,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(415,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(416,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(417,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(443,40): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(444,40): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(445,40): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  MainForm.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(409,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(410,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(411,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(412,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(414,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(415,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(416,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(417,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(443,40): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(444,40): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q1_Form.h(445,40): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(525,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(524,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(543,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(544,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(567,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(566,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(585,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(586,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(615,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(616,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(648,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(647,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(668,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(669,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(710,9): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(715,9): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(720,9): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  Q2_Form.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(525,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(524,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(543,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(544,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(567,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(566,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(585,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(586,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(615,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(616,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(648,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(647,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(668,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(669,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(710,9): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(715,9): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\2ImageMerge_and_Scaling\Q2_Form.h(720,9): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Q1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  2ImageMerge_and_Scaling.vcxproj -> E:\Project\College Class\Image Processing (C++)_College_Junior\2. 2ImageMerge_and_Scaling\Debug\2ImageMerge_and_Scaling.exe

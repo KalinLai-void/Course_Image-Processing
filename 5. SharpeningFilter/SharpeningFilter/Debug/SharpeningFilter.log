@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\5. SharpeningFilter\SharpeningFilter\MyForm.h(467,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\5. SharpeningFilter\SharpeningFilter\MyForm.h(468,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\5. SharpeningFilter\SharpeningFilter\MyForm.h(469,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SharpeningFilter.vcxproj -> E:\Project\College Class\Image Processing (C++)_College_Junior\5. SharpeningFilter\Debug\SharpeningFilter.exe

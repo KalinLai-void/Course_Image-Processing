@@ -1,0 +1,11 @@
+﻿  MainForm.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Q1_Form.h(385,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Q1_Form.h(386,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Q1_Form.h(387,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Q1_Form.cpp
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Q1_Form.h(385,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Q1_Form.h(386,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\DCT_GeneralWaveletForm\Q1_Form.h(387,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DCT_GeneralWaveletForm.vcxproj -> E:\Project\College Class\Image Processing (C++)_College_Junior\7. DCT_GeneralWaveletForm\Release\DCT_GeneralWaveletForm.exe

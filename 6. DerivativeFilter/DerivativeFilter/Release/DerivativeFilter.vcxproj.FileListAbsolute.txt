@@ -1,0 +1,2 @@
+E:\Project\College Class\Image Processing (C++)_College_Junior\6. DerivativeFilter\DerivativeFilter\Release\DerivativeFilter.MyForm.resources
+E:\Project\College Class\Image Processing (C++)_College_Junior\6. DerivativeFilter\DerivativeFilter\Release\DerivativeFilter.vcxproj.GenerateResource.cache

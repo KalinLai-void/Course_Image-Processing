@@ -1,0 +1,3 @@
+E:\Project\College Class\Image Processing (C++)_College_Junior\5. SharpeningFilter\SharpeningFilter\Debug\SharpeningFilter.vcxproj.AssemblyReference.cache
+E:\Project\College Class\Image Processing (C++)_College_Junior\5. SharpeningFilter\SharpeningFilter\Debug\SharpeningFilter.MyForm.resources
+E:\Project\College Class\Image Processing (C++)_College_Junior\5. SharpeningFilter\SharpeningFilter\Debug\SharpeningFilter.vcxproj.GenerateResource.cache
