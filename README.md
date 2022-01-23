@@ -1,7 +1,13 @@
-### 大學課程－「影像處理實務」之作業
+## 大學課程－「影像處理實務」之作業
 These are the homeworks of the course "Image Processing Implementation" in my college.
 
-更詳細的資料可看每個專案裡面的word檔，那份是當時繳作業時給助教的檔案，其中裡面有演示流程及主要程式碼。
+### 環境
+- VS 2019
+- **NO OpenCV**
+- C++ CLR (.Net Framework)
+
+### 說明
+更詳細的資料可看每個專案裡面的word檔，那是當時繳作業時給助教的檔案，其中裡面有演示流程及主要程式碼。
 
 1. Transfer color image to gray-level image. (彩色轉灰階)
 2. Image merging and Scaling. (影像合成與縮放)
